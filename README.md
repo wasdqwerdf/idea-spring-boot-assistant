@@ -6,7 +6,9 @@
 
 ## About
 
+<!-- Plugin description -->
 This plugin adds support of [spring initializr](https://start.spring.io/) to JetBrains IDEs.
+<!-- Plugin description end -->
 
 ## Installation
 
